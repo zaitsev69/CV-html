@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV </title>
+    <link rel="stylesheet" href="cv.css">
+</head>
+
+<body>
+    <main>
+        <p>
+            <img src="twitter.png" alt="Photo d'identité">
+        </p>
+        <div class="container">
+
+
+            <div class="entete">
+                <h1> Nathan Cadilhac</h1>
+                <p>02/12/2001</p>
+
+                <p class="bio"> Etudiant agé de 20 ans, je suis a la recherche d'un job étudiant.</p>
+            </div>
+
+            <div class="item">
+                <h3>Coordonnées :</h3>
+
+
+                <h4>Portable :</h4>
+
+                <p> 07 68 65 37 62 </p>
+
+                <h4>E-Mail :</h4>
+
+                <p>nathan.cadilhac@bbox.fr</p>
+
+                <h4>Adresse :</h4>
+
+                <p>16 rue Victor Hugo 38370 les Roches de Condrieu </p>
+
+            </div>
+
+            <div class="item">
+                <h3>Compétences :</h3>
+
+                <p>Autonome</p>
+                <p>Bonne forme physique</p>
+                <p>Capable de s'adapter</p>
+                <p>Sens de l'organisation</p>
+                <p>Travail en équipe</p>
+                <p>A l'aise avec l'informatique</p>
+                <p>Permis B</p>
+                <p>Bon niveau d'anglais</p>
+
+            </div>
+
+            <div class="item">
+
+
+                <h3>Profil Personnel :</h3>
+
+
+                <p>
+                    J'apprécie beaucoup le
+                    relationnel, je suis
+                    également à l'aise de mes
+                    mains. J'aime le travail
+                    d'équipe ainsi qu'aider les
+                    personnes. Mes
+                    compétences relationnelles
+                    et techniques sauront vont
+                    être utiles !
+                </p>
+
+            </div>
+
+            <div class="item">
+                <h3> Formations professionelles :</h3>
+
+
+                <p>
+                <h4>B1 Cycle Web et Multimédia</h4>
+                <p>
+                    MyDigitalSchool - Lyon
+
+                </p>
+                <p>
+                    Novembre 2022
+                </p>
+
+
+                <p>
+                <h4>BTS Profession Immobilière</h4>
+
+                <p>Ecoris - Lyon</p>
+                <p>Septembre 2020- Fevrier 2021</p>
+                <p>(arrêté en cours d'année faute
+                    d'alternance)</p>
+
+
+
+                <h4> BAC ES</h4>
+
+                <p> Lycée Robin - Vienne</p>
+                <p>2017 - 2020</p>
+                <p>Spécialité Mathématiques</p>
+
+
+            </div>
+
+
+            <div class="item">
+            <h3>Loisirs :</h3>
+
+            <p>Escalade</p>
+            <p>Musculation</p>
+            <p>Musique</p>
+            <p>Moto</p>
+
+            </div>
+
+
+            <div class="item">
+                <h3>Expériences professionelles :</h3>
+
+                <p>
+                <h4>Equipier polyvalent en restauration</h4>
+
+                <p>Le Kiosk - Roanne</p>
+                <p>Juin 2022 - Aôut 2022</p>
+                <p>Accueil client, service, préparation
+                des commandes au bar ou en cuisine.
+                </p>
+
+                <p>
+                <h4>Aide maçon </h4>
+                <p>NBTP - Saint Clair du Rhône</p>
+
+                <p>
+                <h4>Poissonnier Charcutier</h4>
+                <p>Carrefour Market - Condrieu</p>
+                <p>Décembre 2021</p>
+
+                <p>
+                <h4>Vendangeur</h4>
+                <p>Cave Cuilleron - Chavanay</p>
+                <p>Septembre 2021 - Octobre 2021</p>
+
+                <p>
+                <h4>Soudeur</h4>
+                <p>Metal Partner - Loire sur Rhône</p>
+                <p>Juillet 2021</p>
+
+                <p>
+                <h4>Aide Maçon</h4>
+                <p>SMTS - Rousillon</p>
+                <p>Mars 2021 - Juin 2021</p>
+
+                <p>
+                <h4>Manutentionnaire</h4>
+                <p>Easydis - Reventin Vaugris</p>
+                <p>Septembre 2020 - Octobre 2021</p>
+
+
+            </div>
+
+        </div>
+
+    </main>
+</body>
+
+</html>
